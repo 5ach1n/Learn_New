@@ -5,4 +5,8 @@ public class Addition {
     public float add() {
         return a + b;
     }
+
+    public int add(int a, int b) {
+        return a + b;
+    }
 }
